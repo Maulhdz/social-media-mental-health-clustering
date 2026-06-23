@@ -7,7 +7,7 @@ Proyek ini merupakan tugas akhir (UAS) untuk mata kuliah **Data Mining & Data Wa
 ## 📌 Anggota Tim / Peneliti
 * **Nama:** Maulana Hafidz Wibowo  
 * **NIM:** 2410501031  
-* **Kelas:** S1 Sistem Informasi - A (Semester 4)  
+* **Kelas:** D3 Sistem Informasi - A (Semester 4)  
 * **Institusi:** Universitas Pembangunan Nasional "Veteran" Jakarta  
 
 ---
